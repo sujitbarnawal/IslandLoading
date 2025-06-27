@@ -1,8 +1,22 @@
-# React + Vite
+# 🏝️ IslandLoading – 3D Island Animation with Three.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**IslandLoading** is a visually immersive loading screen or landing animation that features a 3D island built using **Three.js**. This can be used as a creative intro or loading effect for web applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Built With
+
+- **Three.js** – WebGL 3D rendering
+- **React.js** – Component-based UI
+- **Tailwind CSS** – Utility-first styling
+- **React Three Fiber** – Three.js renderer for React
+- **Drei** – Helpers for React Three Fiber
+
+---
+
+## ✨ Features
+
+- 🏝️ Beautiful 3D island scene
+- ⚡ Fully responsive animation
+
+![image](https://github.com/user-attachments/assets/5e0cf824-0b4c-4f51-8521-bc8432345dea)
